@@ -18,3 +18,4 @@ look at 4 in clsG column 2
 The 4 is part of a cluster with 24 gradiometer channel
 
 look SigF 24 gradientometr is 35 general channel or 'MEG0342'
+Ver 2.1 add create .fig It is necessary to set the path for the clusters and Fig
